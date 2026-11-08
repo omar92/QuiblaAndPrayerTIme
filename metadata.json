@@ -1,0 +1,6 @@
+{
+  "name": "Qibla & Prayer Times",
+  "description": "Android-style Islamic prayer times, next prayer countdown, and real-time Qibla compass to Mecca with GPS and offline support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
